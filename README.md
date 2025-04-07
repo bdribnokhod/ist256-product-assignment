@@ -4,7 +4,7 @@ Bogdan Dribnokhod
 
 Mar 17, 2025
 
-GitHub URL: https://github.com/bdribnokhod/ist256-product-assignment
+GitHub URL: [https://github.com/bdribnokhod/ist256-product-assignment](https://bdribnokhod.github.io/ist256-product-assignment/)
 
 Screenshot:
 
